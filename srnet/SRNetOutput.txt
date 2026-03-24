@@ -1,0 +1,54 @@
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005106_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005090_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005042_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005171_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005124_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005139_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005063_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005006_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005121_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005063_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005033_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005015_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005083_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005029_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005171_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005083_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005155_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005121_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005181_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005155_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005120_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005120_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005157_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005124_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005109_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005172_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005006_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005031_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005015_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005027_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005126_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005181_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005029_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005126_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005027_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005164_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005112_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005157_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005139_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005106_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005172_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005109_original.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005090_stego.jpeg -> Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005042_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005164_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005112_original.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/ILSVRC2012_val_00005031_stego.jpeg -> Not-Stego
+/home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/ILSVRC2012_val_00005033_original.jpeg -> Stego
+
+Loaded 2 batches
+From Cover Path: /home/lkm0049/NewModelsForCV/thilina_images/image_outputs/originals/*.*
+From Stego Path: /home/lkm0049/NewModelsForCV/thilina_images/image_outputs/stegos/*.*
+
+Final test_accuracy = 56.25

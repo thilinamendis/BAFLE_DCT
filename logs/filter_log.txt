@@ -1,0 +1,35 @@
+
+=== [Batch 1] Embedding Candidate Filtering Log ===
+
+Filtered 856 images with zero embedding opportunities.
+Remaining images for embedding: 144
+
+=== [Batch 2] Embedding Candidate Filtering Log ===
+
+Filtered 881 images with zero embedding opportunities.
+Remaining images for embedding: 119
+
+=== [Batch 3] Embedding Candidate Filtering Log ===
+
+Filtered 865 images with zero embedding opportunities.
+Remaining images for embedding: 135
+
+=== [Batch 4] Embedding Candidate Filtering Log ===
+
+Filtered 866 images with zero embedding opportunities.
+Remaining images for embedding: 134
+
+=== [Batch 5] Embedding Candidate Filtering Log ===
+
+Filtered 876 images with zero embedding opportunities.
+Remaining images for embedding: 124
+
+=== [Batch 6] Embedding Candidate Filtering Log ===
+
+Filtered 883 images with zero embedding opportunities.
+Remaining images for embedding: 117
+
+=== [Batch 7] Embedding Candidate Filtering Log ===
+
+Filtered 861 images with zero embedding opportunities.
+Remaining images for embedding: 139

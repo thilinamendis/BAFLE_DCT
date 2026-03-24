@@ -1,0 +1,322 @@
+
+=== [Batch 1] ML Training Log ===
+Epoch 1 — Loss: 4.8308, Val Loss: 3.0597, Train Acc: 0.4999, Val Acc: 0.5003
+Epoch 2 — Loss: 3.0677, Val Loss: 1.2779, Train Acc: 0.4999, Val Acc: 0.5003
+Epoch 3 — Loss: 1.2801, Val Loss: 0.4975, Train Acc: 0.4999, Val Acc: 0.8434
+Epoch 4 — Loss: 0.4972, Val Loss: 0.4435, Train Acc: 0.8431, Val Acc: 0.9300
+Epoch 5 — Loss: 0.4432, Val Loss: 0.4246, Train Acc: 0.9302, Val Acc: 0.9681
+Epoch 6 — Loss: 0.4242, Val Loss: 0.4154, Train Acc: 0.9674, Val Acc: 0.9907
+Epoch 7 — Loss: 0.4150, Val Loss: 0.4105, Train Acc: 0.9906, Val Acc: 0.9898
+Epoch 8 — Loss: 0.4100, Val Loss: 0.4077, Train Acc: 0.9905, Val Acc: 0.9726
+Epoch 9 — Loss: 0.4072, Val Loss: 0.4059, Train Acc: 0.9733, Val Acc: 0.9606
+Epoch 10 — Loss: 0.4053, Val Loss: 0.4046, Train Acc: 0.9612, Val Acc: 0.9515
+Epoch 11 — Loss: 0.4039, Val Loss: 0.4034, Train Acc: 0.9521, Val Acc: 0.9448
+Epoch 12 — Loss: 0.4027, Val Loss: 0.4022, Train Acc: 0.9456, Val Acc: 0.9397
+Epoch 13 — Loss: 0.4015, Val Loss: 0.4010, Train Acc: 0.9409, Val Acc: 0.9367
+Epoch 14 — Loss: 0.4003, Val Loss: 0.3997, Train Acc: 0.9380, Val Acc: 0.9351
+Epoch 15 — Loss: 0.3989, Val Loss: 0.3982, Train Acc: 0.9361, Val Acc: 0.9344
+Epoch 16 — Loss: 0.3975, Val Loss: 0.3965, Train Acc: 0.9353, Val Acc: 0.9345
+Epoch 17 — Loss: 0.3958, Val Loss: 0.3946, Train Acc: 0.9356, Val Acc: 0.9355
+Epoch 18 — Loss: 0.3939, Val Loss: 0.3925, Train Acc: 0.9367, Val Acc: 0.9374
+Epoch 19 — Loss: 0.3918, Val Loss: 0.3903, Train Acc: 0.9385, Val Acc: 0.9401
+Epoch 20 — Loss: 0.3895, Val Loss: 0.3878, Train Acc: 0.9410, Val Acc: 0.9432
+Epoch 21 — Loss: 0.3871, Val Loss: 0.3852, Train Acc: 0.9442, Val Acc: 0.9471
+Epoch 22 — Loss: 0.3845, Val Loss: 0.3825, Train Acc: 0.9480, Val Acc: 0.9516
+Epoch 23 — Loss: 0.3818, Val Loss: 0.3796, Train Acc: 0.9521, Val Acc: 0.9562
+Epoch 24 — Loss: 0.3790, Val Loss: 0.3766, Train Acc: 0.9570, Val Acc: 0.9620
+Epoch 25 — Loss: 0.3759, Val Loss: 0.3734, Train Acc: 0.9630, Val Acc: 0.9689
+Epoch 26 — Loss: 0.3728, Val Loss: 0.3704, Train Acc: 0.9697, Val Acc: 0.9765
+Epoch 27 — Loss: 0.3698, Val Loss: 0.3678, Train Acc: 0.9770, Val Acc: 0.9838
+Epoch 28 — Loss: 0.3672, Val Loss: 0.3654, Train Acc: 0.9843, Val Acc: 0.9902
+Epoch 29 — Loss: 0.3649, Val Loss: 0.3632, Train Acc: 0.9903, Val Acc: 0.9942
+Epoch 30 — Loss: 0.3627, Val Loss: 0.3611, Train Acc: 0.9941, Val Acc: 0.9947
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      0.99     39693
+         1.0       1.00      0.99      0.99     39651
+
+    accuracy                           0.99     79344
+   macro avg       0.99      0.99      0.99     79344
+weighted avg       0.99      0.99      0.99     79344
+
+🧩 Confusion Matrix:
+[[39657    36]
+ [  385 39266]]
+Accuracy: 0.9947
+
+=== [Batch 2] ML Training Log ===
+Epoch 1 — Loss: 0.5225, Val Loss: 0.4576, Train Acc: 0.8619, Val Acc: 0.9576
+Epoch 2 — Loss: 0.4566, Val Loss: 0.4383, Train Acc: 0.9587, Val Acc: 0.9714
+Epoch 3 — Loss: 0.4374, Val Loss: 0.4298, Train Acc: 0.9711, Val Acc: 0.9649
+Epoch 4 — Loss: 0.4290, Val Loss: 0.4250, Train Acc: 0.9640, Val Acc: 0.9441
+Epoch 5 — Loss: 0.4243, Val Loss: 0.4216, Train Acc: 0.9435, Val Acc: 0.9313
+Epoch 6 — Loss: 0.4211, Val Loss: 0.4189, Train Acc: 0.9300, Val Acc: 0.9235
+Epoch 7 — Loss: 0.4184, Val Loss: 0.4164, Train Acc: 0.9227, Val Acc: 0.9188
+Epoch 8 — Loss: 0.4159, Val Loss: 0.4139, Train Acc: 0.9179, Val Acc: 0.9170
+Epoch 9 — Loss: 0.4135, Val Loss: 0.4114, Train Acc: 0.9159, Val Acc: 0.9169
+Epoch 10 — Loss: 0.4109, Val Loss: 0.4085, Train Acc: 0.9160, Val Acc: 0.9191
+Epoch 11 — Loss: 0.4081, Val Loss: 0.4055, Train Acc: 0.9183, Val Acc: 0.9229
+Epoch 12 — Loss: 0.4051, Val Loss: 0.4027, Train Acc: 0.9217, Val Acc: 0.9275
+Epoch 13 — Loss: 0.4022, Val Loss: 0.3997, Train Acc: 0.9264, Val Acc: 0.9329
+Epoch 14 — Loss: 0.3992, Val Loss: 0.3966, Train Acc: 0.9320, Val Acc: 0.9395
+Epoch 15 — Loss: 0.3960, Val Loss: 0.3934, Train Acc: 0.9384, Val Acc: 0.9469
+Epoch 16 — Loss: 0.3928, Val Loss: 0.3900, Train Acc: 0.9458, Val Acc: 0.9552
+Epoch 17 — Loss: 0.3893, Val Loss: 0.3865, Train Acc: 0.9548, Val Acc: 0.9662
+Epoch 18 — Loss: 0.3858, Val Loss: 0.3839, Train Acc: 0.9659, Val Acc: 0.9784
+Epoch 19 — Loss: 0.3831, Val Loss: 0.3814, Train Acc: 0.9783, Val Acc: 0.9894
+Epoch 20 — Loss: 0.3805, Val Loss: 0.3789, Train Acc: 0.9889, Val Acc: 0.9926
+Epoch 21 — Loss: 0.3780, Val Loss: 0.3762, Train Acc: 0.9926, Val Acc: 0.9931
+Epoch 22 — Loss: 0.3752, Val Loss: 0.3731, Train Acc: 0.9937, Val Acc: 0.9933
+Epoch 23 — Loss: 0.3722, Val Loss: 0.3696, Train Acc: 0.9938, Val Acc: 0.9933
+Epoch 24 — Loss: 0.3686, Val Loss: 0.3657, Train Acc: 0.9938, Val Acc: 0.9941
+Epoch 25 — Loss: 0.3647, Val Loss: 0.3613, Train Acc: 0.9946, Val Acc: 0.9954
+Epoch 26 — Loss: 0.3603, Val Loss: 0.3568, Train Acc: 0.9959, Val Acc: 0.9950
+Epoch 27 — Loss: 0.3558, Val Loss: 0.3531, Train Acc: 0.9956, Val Acc: 0.9942
+Epoch 28 — Loss: 0.3522, Val Loss: 0.3499, Train Acc: 0.9949, Val Acc: 0.9941
+Epoch 29 — Loss: 0.3490, Val Loss: 0.3467, Train Acc: 0.9947, Val Acc: 0.9946
+Epoch 30 — Loss: 0.3458, Val Loss: 0.3434, Train Acc: 0.9950, Val Acc: 0.9951
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00     39562
+         1.0       1.00      0.99      1.00     39569
+
+    accuracy                           1.00     79131
+   macro avg       1.00      1.00      1.00     79131
+weighted avg       1.00      1.00      1.00     79131
+
+🧩 Confusion Matrix:
+[[39562     0]
+ [  391 39178]]
+Accuracy: 0.9951
+
+=== [Batch 3] ML Training Log ===
+Epoch 1 — Loss: 7.9966, Val Loss: 6.4659, Train Acc: 0.5005, Val Acc: 0.4979
+Epoch 2 — Loss: 6.4204, Val Loss: 4.8785, Train Acc: 0.5005, Val Acc: 0.4979
+Epoch 3 — Loss: 4.8349, Val Loss: 3.2771, Train Acc: 0.5005, Val Acc: 0.4979
+Epoch 4 — Loss: 3.2420, Val Loss: 1.6430, Train Acc: 0.5005, Val Acc: 0.4979
+Epoch 5 — Loss: 1.6293, Val Loss: 0.5621, Train Acc: 0.5005, Val Acc: 0.7807
+Epoch 6 — Loss: 0.5632, Val Loss: 0.4793, Train Acc: 0.7809, Val Acc: 0.9240
+Epoch 7 — Loss: 0.4807, Val Loss: 0.4545, Train Acc: 0.9255, Val Acc: 0.9746
+Epoch 8 — Loss: 0.4560, Val Loss: 0.4406, Train Acc: 0.9749, Val Acc: 0.9878
+Epoch 9 — Loss: 0.4421, Val Loss: 0.4329, Train Acc: 0.9886, Val Acc: 0.9670
+Epoch 10 — Loss: 0.4345, Val Loss: 0.4281, Train Acc: 0.9676, Val Acc: 0.9510
+Epoch 11 — Loss: 0.4296, Val Loss: 0.4242, Train Acc: 0.9510, Val Acc: 0.9380
+Epoch 12 — Loss: 0.4258, Val Loss: 0.4209, Train Acc: 0.9389, Val Acc: 0.9301
+Epoch 13 — Loss: 0.4225, Val Loss: 0.4185, Train Acc: 0.9309, Val Acc: 0.9261
+Epoch 14 — Loss: 0.4201, Val Loss: 0.4162, Train Acc: 0.9266, Val Acc: 0.9230
+Epoch 15 — Loss: 0.4178, Val Loss: 0.4139, Train Acc: 0.9228, Val Acc: 0.9199
+Epoch 16 — Loss: 0.4155, Val Loss: 0.4115, Train Acc: 0.9197, Val Acc: 0.9175
+Epoch 17 — Loss: 0.4130, Val Loss: 0.4090, Train Acc: 0.9173, Val Acc: 0.9156
+Epoch 18 — Loss: 0.4105, Val Loss: 0.4063, Train Acc: 0.9157, Val Acc: 0.9147
+Epoch 19 — Loss: 0.4079, Val Loss: 0.4036, Train Acc: 0.9148, Val Acc: 0.9144
+Epoch 20 — Loss: 0.4051, Val Loss: 0.4007, Train Acc: 0.9145, Val Acc: 0.9148
+Epoch 21 — Loss: 0.4022, Val Loss: 0.3977, Train Acc: 0.9148, Val Acc: 0.9160
+Epoch 22 — Loss: 0.3992, Val Loss: 0.3944, Train Acc: 0.9160, Val Acc: 0.9185
+Epoch 23 — Loss: 0.3959, Val Loss: 0.3909, Train Acc: 0.9185, Val Acc: 0.9222
+Epoch 24 — Loss: 0.3923, Val Loss: 0.3875, Train Acc: 0.9220, Val Acc: 0.9260
+Epoch 25 — Loss: 0.3889, Val Loss: 0.3841, Train Acc: 0.9259, Val Acc: 0.9298
+Epoch 26 — Loss: 0.3855, Val Loss: 0.3806, Train Acc: 0.9303, Val Acc: 0.9342
+Epoch 27 — Loss: 0.3820, Val Loss: 0.3771, Train Acc: 0.9348, Val Acc: 0.9389
+Epoch 28 — Loss: 0.3786, Val Loss: 0.3737, Train Acc: 0.9397, Val Acc: 0.9436
+Epoch 29 — Loss: 0.3751, Val Loss: 0.3702, Train Acc: 0.9443, Val Acc: 0.9479
+Epoch 30 — Loss: 0.3715, Val Loss: 0.3667, Train Acc: 0.9486, Val Acc: 0.9518
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.91      0.95     40677
+         1.0       0.91      1.00      0.95     41025
+
+    accuracy                           0.95     81702
+   macro avg       0.96      0.95      0.95     81702
+weighted avg       0.96      0.95      0.95     81702
+
+🧩 Confusion Matrix:
+[[36839  3838]
+ [  102 40923]]
+Accuracy: 0.9518
+
+=== [Batch 4] ML Training Log ===
+Epoch 1 — Loss: 0.6058, Val Loss: 0.4857, Train Acc: 0.7318, Val Acc: 0.9366
+Epoch 2 — Loss: 0.4855, Val Loss: 0.4626, Train Acc: 0.9356, Val Acc: 0.9829
+Epoch 3 — Loss: 0.4622, Val Loss: 0.4528, Train Acc: 0.9827, Val Acc: 0.9854
+Epoch 4 — Loss: 0.4523, Val Loss: 0.4474, Train Acc: 0.9857, Val Acc: 0.9582
+Epoch 5 — Loss: 0.4468, Val Loss: 0.4441, Train Acc: 0.9589, Val Acc: 0.9394
+Epoch 6 — Loss: 0.4434, Val Loss: 0.4417, Train Acc: 0.9405, Val Acc: 0.9266
+Epoch 7 — Loss: 0.4410, Val Loss: 0.4398, Train Acc: 0.9279, Val Acc: 0.9180
+Epoch 8 — Loss: 0.4390, Val Loss: 0.4379, Train Acc: 0.9198, Val Acc: 0.9123
+Epoch 9 — Loss: 0.4371, Val Loss: 0.4360, Train Acc: 0.9140, Val Acc: 0.9084
+Epoch 10 — Loss: 0.4352, Val Loss: 0.4340, Train Acc: 0.9102, Val Acc: 0.9057
+Epoch 11 — Loss: 0.4331, Val Loss: 0.4317, Train Acc: 0.9079, Val Acc: 0.9044
+Epoch 12 — Loss: 0.4308, Val Loss: 0.4292, Train Acc: 0.9067, Val Acc: 0.9043
+Epoch 13 — Loss: 0.4282, Val Loss: 0.4263, Train Acc: 0.9067, Val Acc: 0.9059
+Epoch 14 — Loss: 0.4253, Val Loss: 0.4231, Train Acc: 0.9081, Val Acc: 0.9089
+Epoch 15 — Loss: 0.4221, Val Loss: 0.4194, Train Acc: 0.9109, Val Acc: 0.9135
+Epoch 16 — Loss: 0.4185, Val Loss: 0.4155, Train Acc: 0.9155, Val Acc: 0.9194
+Epoch 17 — Loss: 0.4145, Val Loss: 0.4113, Train Acc: 0.9212, Val Acc: 0.9263
+Epoch 18 — Loss: 0.4104, Val Loss: 0.4069, Train Acc: 0.9283, Val Acc: 0.9349
+Epoch 19 — Loss: 0.4060, Val Loss: 0.4022, Train Acc: 0.9364, Val Acc: 0.9449
+Epoch 20 — Loss: 0.4014, Val Loss: 0.3976, Train Acc: 0.9460, Val Acc: 0.9559
+Epoch 21 — Loss: 0.3968, Val Loss: 0.3935, Train Acc: 0.9563, Val Acc: 0.9665
+Epoch 22 — Loss: 0.3927, Val Loss: 0.3901, Train Acc: 0.9669, Val Acc: 0.9763
+Epoch 23 — Loss: 0.3893, Val Loss: 0.3869, Train Acc: 0.9767, Val Acc: 0.9824
+Epoch 24 — Loss: 0.3863, Val Loss: 0.3842, Train Acc: 0.9834, Val Acc: 0.9861
+Epoch 25 — Loss: 0.3835, Val Loss: 0.3816, Train Acc: 0.9869, Val Acc: 0.9875
+Epoch 26 — Loss: 0.3810, Val Loss: 0.3791, Train Acc: 0.9878, Val Acc: 0.9853
+Epoch 27 — Loss: 0.3786, Val Loss: 0.3767, Train Acc: 0.9858, Val Acc: 0.9812
+Epoch 28 — Loss: 0.3762, Val Loss: 0.3740, Train Acc: 0.9808, Val Acc: 0.9774
+Epoch 29 — Loss: 0.3736, Val Loss: 0.3711, Train Acc: 0.9770, Val Acc: 0.9755
+Epoch 30 — Loss: 0.3706, Val Loss: 0.3678, Train Acc: 0.9750, Val Acc: 0.9752
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.95      1.00      0.98     37955
+         1.0       1.00      0.95      0.97     37813
+
+    accuracy                           0.98     75768
+   macro avg       0.98      0.98      0.98     75768
+weighted avg       0.98      0.98      0.98     75768
+
+🧩 Confusion Matrix:
+[[37955     0]
+ [ 1876 35937]]
+Accuracy: 0.9752
+
+=== [Batch 5] ML Training Log ===
+Epoch 1 — Loss: 0.5885, Val Loss: 0.4702, Train Acc: 0.7001, Val Acc: 0.9007
+Epoch 2 — Loss: 0.4706, Val Loss: 0.4428, Train Acc: 0.9005, Val Acc: 0.9509
+Epoch 3 — Loss: 0.4431, Val Loss: 0.4309, Train Acc: 0.9506, Val Acc: 0.9751
+Epoch 4 — Loss: 0.4311, Val Loss: 0.4246, Train Acc: 0.9748, Val Acc: 0.9890
+Epoch 5 — Loss: 0.4247, Val Loss: 0.4209, Train Acc: 0.9886, Val Acc: 0.9873
+Epoch 6 — Loss: 0.4209, Val Loss: 0.4182, Train Acc: 0.9876, Val Acc: 0.9809
+Epoch 7 — Loss: 0.4182, Val Loss: 0.4160, Train Acc: 0.9817, Val Acc: 0.9732
+Epoch 8 — Loss: 0.4159, Val Loss: 0.4141, Train Acc: 0.9741, Val Acc: 0.9663
+Epoch 9 — Loss: 0.4140, Val Loss: 0.4124, Train Acc: 0.9675, Val Acc: 0.9613
+Epoch 10 — Loss: 0.4123, Val Loss: 0.4109, Train Acc: 0.9625, Val Acc: 0.9586
+Epoch 11 — Loss: 0.4109, Val Loss: 0.4094, Train Acc: 0.9591, Val Acc: 0.9565
+Epoch 12 — Loss: 0.4093, Val Loss: 0.4078, Train Acc: 0.9574, Val Acc: 0.9558
+Epoch 13 — Loss: 0.4077, Val Loss: 0.4061, Train Acc: 0.9566, Val Acc: 0.9559
+Epoch 14 — Loss: 0.4060, Val Loss: 0.4042, Train Acc: 0.9568, Val Acc: 0.9570
+Epoch 15 — Loss: 0.4041, Val Loss: 0.4023, Train Acc: 0.9578, Val Acc: 0.9586
+Epoch 16 — Loss: 0.4021, Val Loss: 0.4002, Train Acc: 0.9595, Val Acc: 0.9611
+Epoch 17 — Loss: 0.4001, Val Loss: 0.3980, Train Acc: 0.9618, Val Acc: 0.9638
+Epoch 18 — Loss: 0.3979, Val Loss: 0.3958, Train Acc: 0.9649, Val Acc: 0.9670
+Epoch 19 — Loss: 0.3957, Val Loss: 0.3935, Train Acc: 0.9680, Val Acc: 0.9706
+Epoch 20 — Loss: 0.3934, Val Loss: 0.3912, Train Acc: 0.9716, Val Acc: 0.9742
+Epoch 21 — Loss: 0.3911, Val Loss: 0.3889, Train Acc: 0.9751, Val Acc: 0.9775
+Epoch 22 — Loss: 0.3888, Val Loss: 0.3865, Train Acc: 0.9786, Val Acc: 0.9807
+Epoch 23 — Loss: 0.3864, Val Loss: 0.3842, Train Acc: 0.9814, Val Acc: 0.9832
+Epoch 24 — Loss: 0.3841, Val Loss: 0.3818, Train Acc: 0.9838, Val Acc: 0.9853
+Epoch 25 — Loss: 0.3818, Val Loss: 0.3795, Train Acc: 0.9856, Val Acc: 0.9867
+Epoch 26 — Loss: 0.3795, Val Loss: 0.3772, Train Acc: 0.9868, Val Acc: 0.9875
+Epoch 27 — Loss: 0.3772, Val Loss: 0.3749, Train Acc: 0.9876, Val Acc: 0.9879
+Epoch 28 — Loss: 0.3748, Val Loss: 0.3725, Train Acc: 0.9880, Val Acc: 0.9879
+Epoch 29 — Loss: 0.3725, Val Loss: 0.3701, Train Acc: 0.9880, Val Acc: 0.9881
+Epoch 30 — Loss: 0.3701, Val Loss: 0.3677, Train Acc: 0.9879, Val Acc: 0.9877
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.98      1.00      0.99     40967
+         1.0       1.00      0.98      0.99     40943
+
+    accuracy                           0.99     81910
+   macro avg       0.99      0.99      0.99     81910
+weighted avg       0.99      0.99      0.99     81910
+
+🧩 Confusion Matrix:
+[[40815   152]
+ [  856 40087]]
+Accuracy: 0.9877
+
+=== [Batch 6] ML Training Log ===
+Epoch 1 — Loss: 0.4621, Val Loss: 0.4552, Train Acc: 0.9758, Val Acc: 0.9257
+Epoch 2 — Loss: 0.4547, Val Loss: 0.4531, Train Acc: 0.9256, Val Acc: 0.9027
+Epoch 3 — Loss: 0.4527, Val Loss: 0.4508, Train Acc: 0.9026, Val Acc: 0.8974
+Epoch 4 — Loss: 0.4504, Val Loss: 0.4475, Train Acc: 0.8975, Val Acc: 0.9016
+Epoch 5 — Loss: 0.4472, Val Loss: 0.4439, Train Acc: 0.9016, Val Acc: 0.9110
+Epoch 6 — Loss: 0.4435, Val Loss: 0.4404, Train Acc: 0.9116, Val Acc: 0.9254
+Epoch 7 — Loss: 0.4399, Val Loss: 0.4372, Train Acc: 0.9251, Val Acc: 0.9404
+Epoch 8 — Loss: 0.4367, Val Loss: 0.4344, Train Acc: 0.9402, Val Acc: 0.9551
+Epoch 9 — Loss: 0.4339, Val Loss: 0.4318, Train Acc: 0.9548, Val Acc: 0.9657
+Epoch 10 — Loss: 0.4313, Val Loss: 0.4289, Train Acc: 0.9656, Val Acc: 0.9712
+Epoch 11 — Loss: 0.4284, Val Loss: 0.4256, Train Acc: 0.9710, Val Acc: 0.9713
+Epoch 12 — Loss: 0.4251, Val Loss: 0.4221, Train Acc: 0.9711, Val Acc: 0.9687
+Epoch 13 — Loss: 0.4216, Val Loss: 0.4186, Train Acc: 0.9684, Val Acc: 0.9650
+Epoch 14 — Loss: 0.4181, Val Loss: 0.4154, Train Acc: 0.9650, Val Acc: 0.9622
+Epoch 15 — Loss: 0.4149, Val Loss: 0.4122, Train Acc: 0.9621, Val Acc: 0.9596
+Epoch 16 — Loss: 0.4118, Val Loss: 0.4091, Train Acc: 0.9596, Val Acc: 0.9590
+Epoch 17 — Loss: 0.4086, Val Loss: 0.4058, Train Acc: 0.9591, Val Acc: 0.9607
+Epoch 18 — Loss: 0.4054, Val Loss: 0.4023, Train Acc: 0.9607, Val Acc: 0.9644
+Epoch 19 — Loss: 0.4019, Val Loss: 0.3989, Train Acc: 0.9643, Val Acc: 0.9689
+Epoch 20 — Loss: 0.3985, Val Loss: 0.3953, Train Acc: 0.9687, Val Acc: 0.9734
+Epoch 21 — Loss: 0.3949, Val Loss: 0.3917, Train Acc: 0.9732, Val Acc: 0.9772
+Epoch 22 — Loss: 0.3913, Val Loss: 0.3881, Train Acc: 0.9770, Val Acc: 0.9801
+Epoch 23 — Loss: 0.3877, Val Loss: 0.3845, Train Acc: 0.9802, Val Acc: 0.9821
+Epoch 24 — Loss: 0.3840, Val Loss: 0.3806, Train Acc: 0.9824, Val Acc: 0.9832
+Epoch 25 — Loss: 0.3802, Val Loss: 0.3767, Train Acc: 0.9832, Val Acc: 0.9835
+Epoch 26 — Loss: 0.3763, Val Loss: 0.3727, Train Acc: 0.9834, Val Acc: 0.9833
+Epoch 27 — Loss: 0.3723, Val Loss: 0.3685, Train Acc: 0.9830, Val Acc: 0.9829
+Epoch 28 — Loss: 0.3681, Val Loss: 0.3642, Train Acc: 0.9825, Val Acc: 0.9825
+Epoch 29 — Loss: 0.3638, Val Loss: 0.3598, Train Acc: 0.9822, Val Acc: 0.9823
+Epoch 30 — Loss: 0.3594, Val Loss: 0.3554, Train Acc: 0.9819, Val Acc: 0.9821
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.98     39548
+         1.0       0.98      0.99      0.98     39569
+
+    accuracy                           0.98     79117
+   macro avg       0.98      0.98      0.98     79117
+weighted avg       0.98      0.98      0.98     79117
+
+🧩 Confusion Matrix:
+[[38635   913]
+ [  502 39067]]
+Accuracy: 0.9821
+
+=== [Batch 7] ML Training Log ===
+Epoch 1 — Loss: 0.5314, Val Loss: 0.4394, Train Acc: 0.7621, Val Acc: 0.9078
+Epoch 2 — Loss: 0.4382, Val Loss: 0.4139, Train Acc: 0.9091, Val Acc: 0.9563
+Epoch 3 — Loss: 0.4126, Val Loss: 0.4023, Train Acc: 0.9559, Val Acc: 0.9815
+Epoch 4 — Loss: 0.4010, Val Loss: 0.3955, Train Acc: 0.9814, Val Acc: 0.9978
+Epoch 5 — Loss: 0.3943, Val Loss: 0.3913, Train Acc: 0.9976, Val Acc: 0.9874
+Epoch 6 — Loss: 0.3902, Val Loss: 0.3886, Train Acc: 0.9865, Val Acc: 0.9766
+Epoch 7 — Loss: 0.3875, Val Loss: 0.3865, Train Acc: 0.9757, Val Acc: 0.9685
+Epoch 8 — Loss: 0.3854, Val Loss: 0.3846, Train Acc: 0.9679, Val Acc: 0.9629
+Epoch 9 — Loss: 0.3836, Val Loss: 0.3827, Train Acc: 0.9619, Val Acc: 0.9588
+Epoch 10 — Loss: 0.3817, Val Loss: 0.3805, Train Acc: 0.9580, Val Acc: 0.9575
+Epoch 11 — Loss: 0.3796, Val Loss: 0.3782, Train Acc: 0.9565, Val Acc: 0.9575
+Epoch 12 — Loss: 0.3772, Val Loss: 0.3758, Train Acc: 0.9566, Val Acc: 0.9586
+Epoch 13 — Loss: 0.3748, Val Loss: 0.3732, Train Acc: 0.9577, Val Acc: 0.9607
+Epoch 14 — Loss: 0.3722, Val Loss: 0.3702, Train Acc: 0.9599, Val Acc: 0.9644
+Epoch 15 — Loss: 0.3692, Val Loss: 0.3671, Train Acc: 0.9636, Val Acc: 0.9698
+Epoch 16 — Loss: 0.3661, Val Loss: 0.3642, Train Acc: 0.9694, Val Acc: 0.9770
+Epoch 17 — Loss: 0.3632, Val Loss: 0.3614, Train Acc: 0.9761, Val Acc: 0.9851
+Epoch 18 — Loss: 0.3604, Val Loss: 0.3587, Train Acc: 0.9843, Val Acc: 0.9932
+Epoch 19 — Loss: 0.3577, Val Loss: 0.3562, Train Acc: 0.9929, Val Acc: 0.9963
+Epoch 20 — Loss: 0.3552, Val Loss: 0.3540, Train Acc: 0.9959, Val Acc: 0.9930
+Epoch 21 — Loss: 0.3529, Val Loss: 0.3517, Train Acc: 0.9934, Val Acc: 0.9884
+Epoch 22 — Loss: 0.3507, Val Loss: 0.3494, Train Acc: 0.9886, Val Acc: 0.9849
+Epoch 23 — Loss: 0.3483, Val Loss: 0.3468, Train Acc: 0.9852, Val Acc: 0.9828
+Epoch 24 — Loss: 0.3458, Val Loss: 0.3440, Train Acc: 0.9829, Val Acc: 0.9819
+Epoch 25 — Loss: 0.3430, Val Loss: 0.3410, Train Acc: 0.9819, Val Acc: 0.9819
+Epoch 26 — Loss: 0.3400, Val Loss: 0.3377, Train Acc: 0.9820, Val Acc: 0.9829
+Epoch 27 — Loss: 0.3367, Val Loss: 0.3344, Train Acc: 0.9828, Val Acc: 0.9841
+Epoch 28 — Loss: 0.3335, Val Loss: 0.3312, Train Acc: 0.9841, Val Acc: 0.9855
+Epoch 29 — Loss: 0.3303, Val Loss: 0.3281, Train Acc: 0.9856, Val Acc: 0.9871
+Epoch 30 — Loss: 0.3271, Val Loss: 0.3249, Train Acc: 0.9874, Val Acc: 0.9890
+📊 Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.98      1.00      0.99     41247
+         1.0       1.00      0.98      0.99     41047
+
+    accuracy                           0.99     82294
+   macro avg       0.99      0.99      0.99     82294
+weighted avg       0.99      0.99      0.99     82294
+
+🧩 Confusion Matrix:
+[[41247     0]
+ [  907 40140]]
+Accuracy: 0.9890

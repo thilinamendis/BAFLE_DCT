@@ -1,0 +1,21 @@
+
+=== [Batch 1] Image Loading Log ===
+✅ Loaded and preprocessed 144 images at size (224, 224)
+
+=== [Batch 2] Image Loading Log ===
+✅ Loaded and preprocessed 119 images at size (224, 224)
+
+=== [Batch 3] Image Loading Log ===
+✅ Loaded and preprocessed 135 images at size (224, 224)
+
+=== [Batch 4] Image Loading Log ===
+✅ Loaded and preprocessed 134 images at size (224, 224)
+
+=== [Batch 5] Image Loading Log ===
+✅ Loaded and preprocessed 124 images at size (224, 224)
+
+=== [Batch 6] Image Loading Log ===
+✅ Loaded and preprocessed 117 images at size (224, 224)
+
+=== [Batch 7] Image Loading Log ===
+✅ Loaded and preprocessed 139 images at size (224, 224)
