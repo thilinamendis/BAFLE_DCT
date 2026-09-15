@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SteganoGAN
 
 A Saliency-Aware FNN slection-Based Steganography Framework for Imperceptible and Robust Data Embedding.
@@ -10,3 +11,7 @@ SteganoGAN leverages Deep Learning, Frequency-Domain Embedding, and Saliency Map
 
 ## Paper
 2026 WACV 
+=======
+# BAFLE_DCT
+This is the project implementation for the paper 'BAFLE-DCT: Bypassing Adversarial Filters via Frequency-Selective Embedding in the DCT Domain'
+>>>>>>> origin/main
